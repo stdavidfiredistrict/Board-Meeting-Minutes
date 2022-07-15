@@ -1,7 +1,1 @@
 theme: jekyll-theme-minimal
-title: Saint David Fire District: Board Meeting Minutes and Recordings
-email: jason.todd@stdavidfire.com
-images-path: /static/images/
-videos-path: /static/videos/
-js-path: /static/js/
-baseurl: "" # the subpath of your site, e.g. /blog
